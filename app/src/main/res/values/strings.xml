@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PDR Tracker</string>
+    <string name="dummy_button">Clear</string>
+</resources>
